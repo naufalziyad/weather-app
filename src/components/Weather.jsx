@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useEffect, useState, useRef } from 'react'
 import'./Weather.css'
 import search_icon from '../assets/search.png'
