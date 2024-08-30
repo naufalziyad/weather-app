@@ -29,9 +29,8 @@
 
 This weather app is built using the following technologies:
 
-- Front-end: HTML, CSS, JavaScript
-- Framework: Vue.js
-- Build Tool: Vite
+- React: A JavaScript library for building user interfaces.
+- Vite: A fast build tool for modern web applications.
 - API: OpenWeatherMap
 
 reference: GreatStack
