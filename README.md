@@ -1,6 +1,9 @@
 # Weather App
 ![Todo App](/weather-app.png)
 
+# Live Demo 
+https://weather.naufal.xyz/
+
 ## Installation
 
 1. Clone the repository:
