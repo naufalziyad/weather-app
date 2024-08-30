@@ -1,8 +1,37 @@
-# React + Vite
+# Weather App
+![Todo App](/weather-app.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+1. Clone the repository:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    ```bash
+    git clone https://github.com/your-username/weather-app.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Create a `.env` file in the root directory of the project.
+
+4. Generate an API key from [OpenWeatherMap](https://openweathermap.org/) by following their documentation.
+
+5. In the `.env` file, add the following line and replace `YOUR_API_KEY` with your generated API key:
+
+    ```plaintext
+    VITE_WEATHER_API_KEY=YOUR_API_KEY
+    ```
+
+## Technologies Used
+
+This weather app is built using the following technologies:
+
+- Front-end: HTML, CSS, JavaScript
+- Framework: Vue.js
+- Build Tool: Vite
+- API: OpenWeatherMap
+
+reference: GreatStack
