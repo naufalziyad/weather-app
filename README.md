@@ -1,7 +1,7 @@
 # Weather App
 ![Todo App](/weather-app.png)
 
-# Live Demo 
+## Live Demo 
 https://weather.naufal.xyz/
 
 ## Installation
